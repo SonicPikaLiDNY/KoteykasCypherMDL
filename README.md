@@ -1,4 +1,4 @@
-# Don't bother reading this if u just want to encode/decode it, Just go [Here](https://sonicpikalidny.github.io/KoteykasCypher) and use it
+# Don't bother reading this if u just want to encode/decode it, Just go [Here](https://sonicpikalidny.github.io/KoteykasCypherMDL) and use it
 
 # Screenshots:
 
