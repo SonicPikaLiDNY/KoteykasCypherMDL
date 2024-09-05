@@ -6,6 +6,10 @@ Screenshot of it on its Home Page
 
 ![image](https://github.com/user-attachments/assets/56cb8aaa-3d7b-4501-80fc-f7b63524bc3d)
 
+and it on mobile
+
+![image](https://github.com/user-attachments/assets/fbecc2d5-ae7a-45ee-b687-be76d1c12885)
+
 # Some things to note:
 
 I made this while being bored, so don't expect updates/bugfixes
