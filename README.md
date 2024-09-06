@@ -40,4 +40,4 @@ Development: Semi-Active
 
 Developers: [SonicPika](https://github.com/SonicPikaLiDNY/)
 
-Regular Version [here](https://github.com/SonicPikaLiDNY/KoteykasCypher) or the hosted website [here](https://sonicpikalidny.github.io/KoteykasCypher/)
+Regular Version [here](https://github.com/LiDNY/KoteykasCypher) or the hosted website [here](https://lidny.github.io/KoteykasCypher/)
